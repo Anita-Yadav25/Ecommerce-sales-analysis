@@ -1,12 +1,10 @@
-# E-commerce Sales Analysis | Python, MySQL & Power BI
+**# E-commerce Sales Analysis | Python, MySQL & Power BI**
 
 ## Project Overview
 
 This project demonstrates an end-to-end data analytics workflow for e-commerce sales data, covering data cleaning, data preparation, database integration, and sales dashboarding.
 
-The objective is to prepare sales data for analysis, calculate key business fields, integrate the data into MySQL, and visualize sales performance using Power BI.
-
-## Business Objective## Business Objective
+## Business Objective##
 
 The objective of this project is to develop a structured and reliable e-commerce sales analysis workflow that transforms raw sales data into clean, analysis-ready information and actionable business insights.
 
@@ -29,6 +27,7 @@ The project focuses on:
 - **Power BI:** Sales dashboarding
 - **Excel/CSV:** Source data formats
 - **GitHub:** Project documentation
+
 ## Project Workflow
 
 ### 1. Data Loading and Exploration
@@ -90,6 +89,21 @@ Additional derived fields include Profit, Year, and Month.
 
 - `Ecommerce_sales_analysis.ipynb` — Python notebook
 - `Power_BI_Sales_Dashboard.pbix` — Power BI dashboard
+
+
+## Key Business Insights
+
+- **Overall Performance:** Generated approximately **16M in sales** and **4M in profit**, with a displayed average profit percentage of **25.21%** for 2023.
+- **Regional Performance:** South was the leading region, contributing approximately **4.35M in sales**, followed by North (4.1M), East (3.85M), and West (3.8M).
+- **Monthly Trends:** Sales peaked in July and August at approximately **1.65M–1.7M**, while April recorded the lowest sales at around **1.0M**.
+- **Product Performance:** Printers led product sales at approximately **3.8M**, followed by Tablets (3.3M), Monitors (3.1M), Laptops (3.0M), and Mobiles (3.0M).
+
+## Business Recommendations
+
+- **Improve Profitability:** Monitor profit margins across products and regions to identify opportunities for cost optimization and sustainable revenue growth.
+- **Optimize Regional Strategies:** Investigate the factors driving South's higher sales and evaluate successful strategies for application in underperforming regions.
+- **Improve Sales Planning:** Use monthly sales trends to anticipate demand, optimize inventory allocation, and plan targeted campaigns during weaker sales periods.
+- **Optimize Product Strategy:** Investigate the drivers of printer sales and compare product-level profit margins before prioritizing inventory, pricing, or promotional investments.
 
 
 GitHub: [Anita-Yadav25](https://github.com/Anita-Yadav25)
