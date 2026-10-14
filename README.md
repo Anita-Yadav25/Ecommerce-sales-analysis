@@ -4,7 +4,7 @@
 
 This project demonstrates an end-to-end data analytics workflow for e-commerce sales data, covering data cleaning, data preparation, database integration, and sales dashboarding.
 
-## Business Objective##
+Business Objective
 
 The objective of this project is to develop a structured and reliable e-commerce sales analysis workflow that transforms raw sales data into clean, analysis-ready information and actionable business insights.
 
